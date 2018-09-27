@@ -1,6 +1,6 @@
 # You just got done writing a function that calculates the player's final score
 # for your new game.
-#
+##
 # Now all you need is a high score table that can be updated with the player's final scores.
 # With such a feature, the player will be motivated to try to beat his previous scores,
 # and hopefully, never stop playing your game.
