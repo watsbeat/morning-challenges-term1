@@ -1,5 +1,5 @@
 # You get any card as an argument. Your task is to return a suit of this card.
-
+#
 # eg:
 
 # ('3C') -> return 'clubs'
@@ -10,4 +10,3 @@
 def define_suit(card)
   # Good luck
 end
-
