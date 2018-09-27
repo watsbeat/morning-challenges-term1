@@ -16,7 +16,7 @@
 #
 # Check your solution by running the tests:
 # ruby tests/14_included_once_test.rb
-#
+##
 
 def includedOnce (haystack, needle)
   # Your code here

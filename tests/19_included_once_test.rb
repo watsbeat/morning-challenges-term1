@@ -10,3 +10,4 @@ class IncludedOnceTest < Test::Unit::TestCase
     assert_equal(false, includedOnce(['hello','hey','hey'], 'hi'))
   end
 end
+#
