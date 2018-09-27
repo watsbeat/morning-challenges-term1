@@ -4,6 +4,7 @@
 # - Sally visits Melbourne or else Sydney.
 # - If Matt visits Brisbane, Ruegen visits Brisbane with him.
 # - Each teacher visits one of the cities with at least one of the other four teachers. 
+#
 
 # If Harrison visits Brisbane, which one of the following must be true?
 # a) Ruegen visits Melbourne
