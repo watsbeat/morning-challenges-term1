@@ -29,3 +29,4 @@ class CardSuitTest < Test::Unit::TestCase
         assert_equal([], @@high_scores.scores)
     end
 end
+#
