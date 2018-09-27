@@ -11,3 +11,4 @@ class InArrayTest < Test::Unit::TestCase
     assert_equal(false, in_array_advanced("HeLLo", ["hi", "howdy", "heya"], false))
   end
 end
+#
