@@ -28,7 +28,7 @@
 #
 # Check your solution by running the tests:
 # ruby tests/13_first_non_repeated_test.rb
-#
+##
 
 def firstNonRepeat (string)
   # Your code here
