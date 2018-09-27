@@ -12,3 +12,4 @@ class CardSuitTest < Test::Unit::TestCase
     assert_equal(define_suit('JX'), nil)
   end
 end
+#
