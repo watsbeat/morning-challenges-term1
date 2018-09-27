@@ -16,3 +16,4 @@ git pull --no-edit morning <branch> && git push origin master
 ```
 
 Substitute `<branch>` with the branch name of the challenge for the current day. This will be provided to you each morning on Slack #general.
+-
