@@ -23,3 +23,4 @@ class UniqueTest < Test::Unit::TestCase
     assert_equal('Lorem ipsum', dictionary.lookup('rails'))
   end
 end
+#
