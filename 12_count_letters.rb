@@ -21,3 +21,5 @@ def count_letters (string)
 
   result # return the hash
 end
+
+#
