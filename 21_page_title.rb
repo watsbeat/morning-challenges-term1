@@ -1,4 +1,3 @@
-#
 # Page Title
 #
 # Write a method that takes a URL and

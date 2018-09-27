@@ -9,3 +9,4 @@ class IncludedOnceTest < Test::Unit::TestCase
     assert_equal("reddit: the front page of the internet", pageTitle("http://www.reddit.com"))
   end
 end
+#
