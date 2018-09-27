@@ -1,5 +1,9 @@
 require 'test/unit'
+<<<<<<< HEAD
 require_relative '../04_vowels'
+=======
+require_relative '../11_vowels'
+>>>>>>> 22_card_suit
 
 class LargestNumberTest < Test::Unit::TestCase
   def test_vowels

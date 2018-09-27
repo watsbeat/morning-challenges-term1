@@ -15,7 +15,12 @@
 #
 
 def vowels (string)
+<<<<<<< HEAD
   # Your code here
 end
 
 #
+=======
+  string.scan(/[aeiou]/i)
+end
+>>>>>>> 22_card_suit

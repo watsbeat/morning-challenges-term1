@@ -16,7 +16,12 @@
 #
 
 def palindrome (string)
+<<<<<<< HEAD
   # Your code here
 end
 
 #
+=======
+  string == string.reverse
+end
+>>>>>>> 22_card_suit

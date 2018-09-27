@@ -18,8 +18,22 @@ def count_letters (string)
   result = {} # You'll need an empty hash to get started!
   
   # Your code here
+<<<<<<< HEAD
 
   result # return the hash
 end
 
 #
+=======
+  for char in string.chars do
+    result[char] = 1 + (result[char] || 0)
+    # if result[char]
+    #   result[char] += 1
+    # else
+    #   result[char] = 1
+    # end
+  end
+
+  result # return the hash
+end
+>>>>>>> 22_card_suit

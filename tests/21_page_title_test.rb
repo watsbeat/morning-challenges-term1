@@ -8,5 +8,9 @@ class IncludedOnceTest < Test::Unit::TestCase
   def test_facey
     assert_equal("reddit: the front page of the internet", pageTitle("http://www.reddit.com"))
   end
+<<<<<<< HEAD
 end
 #
+=======
+end
+>>>>>>> 22_card_suit

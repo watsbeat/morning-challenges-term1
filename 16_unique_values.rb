@@ -19,6 +19,8 @@
 #
 
 def unique (mylist)
-  # Your code here
+  hash = {}
+  mylist.each { |x| hash[x] = true }
+  hash.keys
 end
 #
