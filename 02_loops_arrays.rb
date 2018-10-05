@@ -1,4 +1,5 @@
 # - create a well named variable that contains the amount of time it took you to get to class
+
 # - create a complete sentence  that lets us know how you got to class and how long it took
 # - print this complete sentence
 
